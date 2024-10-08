@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 --- 
 
-Gave a talk at 2024 INFORMS Optimization Society Conference (IOS 2024) on [partially obseravble multi-agent RL](https://arxiv.org/abs/2308.08705)
+Gave a talk at 2024 INFORMS Optimization Society Conference (IOS 2024) on [partially obseravble multi-agent RL](https://arxiv.org/abs/2308.08705) at Houston, Texas.
