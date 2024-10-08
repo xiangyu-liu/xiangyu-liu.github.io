@@ -9,7 +9,7 @@ profile:
   image: xiangyu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2104, Brendan Iribe Center for Computer Science and Engineering</p>
+    <p>2104 Brendan Iribe Center</p>
     <p>College Park, Maryland 20740</p>
 
 news: true # includes a list of news items
