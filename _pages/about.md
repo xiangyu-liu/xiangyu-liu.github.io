@@ -22,3 +22,13 @@ I am a fouth-year PhD student in computer science at University of Maryland, Col
 My research is centered on principled aspects of reinforcement learning (RL), with a particular focus on the game-theoretical/multi-agent problems and partially observable problems, as well as their applications for (empirical) robust RL. 
 
 Recently, I have also extended my focus to understanding large language models (LLM) agent"s" interactions building on the tools of game theory and online learning.
+
+<!-- awards-section -->
+
+## Awards
+
+Here are some awards that I have received:
+
+- **Best Research Paper**, 2022
+- **Outstanding Contribution Award**, 2021
+- **Dean's List**, 2018
