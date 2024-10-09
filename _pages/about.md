@@ -27,8 +27,8 @@ Recently, I have also extended my focus to understanding large language models (
 
 ## Awards
 
-Here are some awards that I have received:
-
-- **Best Research Paper**, 2022
-- **Outstanding Contribution Award**, 2021
-- **Dean's List**, 2018
+<ul style="margin-top: 0px; padding-left: 20px; list-style-type: disc;">
+  <li style="margin-bottom: 5px;"><strong>Best Research Paper</strong>, 2022</li>
+  <li style="margin-bottom: 5px;"><strong>Outstanding Contribution Award</strong>, 2021</li>
+  <li><strong>Dean’s List</strong>, 2018</li>
+</ul>
