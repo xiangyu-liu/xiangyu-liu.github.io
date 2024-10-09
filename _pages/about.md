@@ -17,11 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fouth-year PhD student in computer science at University of Maryland, College Park since 2021, working with Prof. Kaiqing Zhang. Before that, I did my undergraduate in computer science at Shanghai Jiao Tong (SJTU) University from 2017 to 2021.
+I am a fouth-year PhD student in computer science at [University of Maryland, College Park](https://www.cs.umd.edu) since 2021, working with [Prof. Kaiqing Zhang](https://kzhang66.github.io/index.html). Before that, I did my undergraduate in computer science at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) from 2017 to 2021, doing my thesis work with [Prof. Ying Wen](https://yingwen.io).
 
-My research is centered on principled aspects of reinforcement learning (RL), with a particular focus on the game-theoretical/multi-agent problems and partially observable problems, as well as their applications for (empirical) robust RL. 
+My research is centered on principled aspects of ***reinforcement learning (RL)***, with a particular focus on the ***game-theoretical/multi-agent*** problems and ***partially observable*** problems, as well as their applications for **(empirical) robust RL**. 
 
-Recently, I have also extended my focus to understanding large language models (LLM) agent"s" interactions building on the tools of game theory and online learning.
+Recently, I have also extended my focus to understanding ***large language models (LLM) agents interactions*** building on the tools of ***game theory*** and ***online learning***.
 
 <!-- awards-section -->
 
