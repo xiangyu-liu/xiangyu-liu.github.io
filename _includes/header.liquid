@@ -55,10 +55,6 @@
               {% endif %}
             </a>
           </li>
-            <!-- CV link to PDF -->
-          <li class="nav-item">
-            <a class="nav-link" href="/assets/pdf/cv.pdf" target="_blank">CV</a> <!-- Change the file path to your actual PDF location -->
-          </li>
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
@@ -112,6 +108,11 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          <!-- CV link to PDF -->
+          <li class="nav-item">
+            <a class="nav-link" href="/assets/pdf/cv.pdf" target="_blank">CV</a> <!-- Change the file path to your actual PDF location -->
+          </li>
+
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
