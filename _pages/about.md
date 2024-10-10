@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am a fourth-year PhD student in Computer Science at the [University of Maryland, College Park](https://www.cs.umd.edu) since 2021, working under the guidance of [Prof. Kaiqing Zhang](https://kzhang66.github.io/index.html). I have also had the privilege of collaborating with [Prof. Furong Huang](https://furong-huang.com). Prior to this, I completed my undergraduate studies in Computer Science at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) from 2017 to 2021, where I conducted my thesis research with [Prof. Ying Wen](https://yingwen.io).
+I am a fourth-year PhD student in Computer Science at the [University of Maryland, College Park](https://www.cs.umd.edu) since 2021, working under the guidance of [Prof. Kaiqing Zhang](https://kzhang66.github.io/index.html). I have also had the privilege of working with [Prof. Furong Huang](https://furong-huang.com). Prior to this, I completed my undergraduate studies in Computer Science at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) from 2017 to 2021, where I conducted my thesis research with [Prof. Ying Wen](https://yingwen.io).
 
 My research focuses on the foundational aspects of <u>*reinforcement learning (RL)*</u>, particularly on <u>*game-theoretical and multi-agent*</u> problems ([NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/07bba581a2dd8d098a3be0f683560643-Abstract.html), [ICML 2023](https://proceedings.mlr.press/v202/liu23ay/liu23ay.pdf)), <u>*partially observable*</u> settings ([NeurIPS 2024](https://openreview.net/pdf?id=1rnKF0JtXK)), and their applications on <u>*adversarially robust RL*</u> ([ICLR 2024](https://openreview.net/pdf?id=DFTHW0MyiW)). 
 
@@ -33,16 +33,17 @@ More recently, I have expanded my research to explore <u>*large language model (
 <li style="margin-bottom: 10px;">Contributed talk at the <a href="https://inclusion.cs.umd.edu/outreach/aisummer" target="_blank">TSRML workshop of NeurIPS 2022</a> on <a href="https://openreview.net/pdf?id=pDCublKPmG" target="_blank">adversarial policies in competitive games</a>, 2022</li> 
 <li style="margin-bottom: 10px;">Talk at RLChina on <a href="https://proceedings.neurips.cc/paper/2021/hash/07bba581a2dd8d098a3be0f683560643-Abstract.html" target="_blank">unifying diversity in open-ended learning for zero-sum games</a>, China, 2021</li> </ul>
 
-## Service
-<ul style="margin-top: 20px; padding-left: 30px; list-style-type: disc;">
-  <li style="margin-bottom: 10px;">Reviewer for UAI 2024, NeurIPS 2024, ICLR 2025, AISTATS 2025</li>
-  <li style="margin-bottom: 10px;">Graduate lecturer at <a href="https://inclusion.cs.umd.edu/outreach/aisummer" target="_blank">summer AI camps for K12 students</a> (2023, 2024), teaching multi-agent RL.</li>
-</ul>
-
 ## Awards
 <ul style="margin-top: 20px; padding-left: 30px; list-style-type: disc;">
   <li style="margin-bottom: 10px;"><strong>Outstanding Paper Award</strong>, <a href="https://tsrml2022.github.io" target="_blank">Trustworthy and Socially Responsible Machine Learning (TSRML) workshop</a>, NeurIPS 2022</li>
   <li style="margin-bottom: 10px;"><strong>Dean's Fellowship</strong>, UMD, 2021</li>
   <li style="margin-bottom: 10px;"><strong>National Scholarship</strong>, China, 2018 & 2019</li>
 </ul>
+
+## Service
+<ul style="margin-top: 20px; padding-left: 30px; list-style-type: disc;">
+  <li style="margin-bottom: 10px;">Reviewer for UAI 2024, NeurIPS 2024, ICLR 2025, AISTATS 2025</li>
+  <li style="margin-bottom: 10px;">Graduate lecturer at <a href="https://inclusion.cs.umd.edu/outreach/aisummer" target="_blank">summer AI camps for K12 students</a> (2023, 2024), teaching multi-agent RL.</li>
+</ul>
+
 
