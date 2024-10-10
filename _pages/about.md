@@ -20,9 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 I am a fourth-year PhD student in Computer Science at the [University of Maryland, College Park](https://www.cs.umd.edu) since 2021, working under the guidance of [Prof. Kaiqing Zhang](https://kzhang66.github.io/index.html). I have also had the privilege of working with [Prof. Furong Huang](https://furong-huang.com). Prior to this, I completed my undergraduate studies in Computer Science at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) from 2017 to 2021, where I conducted my thesis research with [Prof. Ying Wen](https://yingwen.io).
 
-My research focuses on the foundational aspects of <u>*reinforcement learning (RL)*</u>, particularly on <u>*game-theoretical and multi-agent*</u> problems ([NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/07bba581a2dd8d098a3be0f683560643-Abstract.html), [ICML 2023](https://proceedings.mlr.press/v202/liu23ay/liu23ay.pdf)), <u>*partially observable*</u> settings ([NeurIPS 2024](https://openreview.net/pdf?id=1rnKF0JtXK)), and their applications on <u>*adversarially robust RL*</u> ([ICLR 2024](https://openreview.net/pdf?id=DFTHW0MyiW)). 
+My research focuses on the foundational aspects of *<u>reinforcement learning (RL)</u>*, particularly on *<u>game-theoretical and multi-agent</u>* problems ([NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/07bba581a2dd8d098a3be0f683560643-Abstract.html), [ICML 2023](https://proceedings.mlr.press/v202/liu23ay/liu23ay.pdf)), *<u>partially observable</u>* settings ([NeurIPS 2024](https://openreview.net/pdf?id=1rnKF0JtXK)), and their applications on *<u>adversarially robust RL</u>*([ICLR 2024](https://openreview.net/pdf?id=DFTHW0MyiW)). 
 
-More recently, I have expanded my research to explore <u>*large language model (LLM) agent**s** interactions*</u> ([Arxiv](https://arxiv.org/abs/2403.16843)), leveraging techniques from <u>*game theory*</u> and <u>*online learning*</u>.
+More recently, I have expanded my research to explore *<u>large language model (LLM) agents interactions</u>* ([Arxiv](https://arxiv.org/abs/2403.16843)), leveraging techniques from *<u>game theory</u>* and *<u>online learning</u>*.
 
 <!-- awards-section -->
 
