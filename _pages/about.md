@@ -22,7 +22,7 @@ I am a fourth-year PhD student in Computer Science at the [University of Marylan
 
 My research focuses on the foundational aspects of *<u>(multi-agent) reinforcement learning (RL)</u>*, particularly on *<u>game-theoretical/strategic</u>* ([NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/07bba581a2dd8d098a3be0f683560643-Abstract.html), [ICML 2023](https://proceedings.mlr.press/v202/liu23ay/liu23ay.pdf)) and *<u>partially observable</u>* settings ([NeurIPS 2024](https://openreview.net/pdf?id=1rnKF0JtXK)), as well as their applications on *<u>adversarially robust RL</u>* ([ICLR 2024](https://openreview.net/pdf?id=DFTHW0MyiW)). 
 
-More recently, I have expanded my research to explore *<u>large language model (LLM) agents interactions</u>* ([Arxiv](https://arxiv.org/abs/2403.16843)), leveraging techniques from *<u>game theory</u>* and *<u>online learning</u>*.
+More recently, I have expanded my research to explore *<u>(multi-)large language model (LLM) agents interactions</u>* ([Arxiv](https://arxiv.org/abs/2403.16843)), leveraging techniques from *<u>game theory</u>* and *<u>online learning</u>*.
 
 <!-- awards-section -->
 
