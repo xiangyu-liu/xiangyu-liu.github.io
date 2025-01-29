@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three papers accepted at ICLR 2024 including one spotlight.
+Three papers accepted to ICLR 2024 including one spotlight.

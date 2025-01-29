@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by NeurIPS 2024 on partially observable RL with privileged information.
+One paper accepted to NeurIPS 2024 on [partially observable RL with privileged information](https://arxiv.org/pdf/2412.00985).
