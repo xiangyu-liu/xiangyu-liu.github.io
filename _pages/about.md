@@ -24,6 +24,9 @@ My research focuses on the foundational aspects of *<u>(multi-agent) reinforceme
 
 More recently, I have expanded my research to explore *<u>(multi-)large language model (LLM) agents interactions</u>* ([ICLR 2025](https://arxiv.org/abs/2403.16843)), leveraging techniques from *<u>game theory</u>* and *<u>online learning</u>*.
 
+
+I will be joining Google Research, Market Algorithm team at Mountain View as a research intern in Summer 2025!
+
 <!-- awards-section -->
 
 ## Talks
