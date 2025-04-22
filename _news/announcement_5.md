@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk at UVA [RL Meetup](https://rl-meetup.github.io).
+Gave an invited talk at UVA [RL Meetup](https://rl-meetup.github.io).
