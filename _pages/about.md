@@ -48,5 +48,3 @@ More recently, I have expanded my research to explore *<u>(multi-)large language
   <li style="margin-bottom: 10px;">Reviewer for NeurIPS 2024-2025, ICLR 2025, ICML 2025, AISTATS 2025, UAI 2024-2025, AAMAS 2025, CDC 2025</li>
   <li style="margin-bottom: 10px;">Graduate lecturer at <a href="https://inclusion.cs.umd.edu/outreach/aisummer" target="_blank">summer AI camps for K12 students</a> (2023, 2024), teaching multi-agent RL.</li>
 </ul>
-
-
