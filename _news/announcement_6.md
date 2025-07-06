@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Google Research, Mountain View as a research inter, working on LLMs and multi-agents.
+Joined Google Research, Mountain View as a research intern, working on LLMs and multi-agents.
