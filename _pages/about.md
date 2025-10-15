@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am a fourth-year PhD student in Computer Science at the [University of Maryland, College Park (UMD)](https://www.cs.umd.edu) since 2021, working under the guidance of [Prof. Kaiqing Zhang](https://kzhang66.github.io/index.html). I have also had the privilege of working with [Prof. Furong Huang](https://furong-huang.com). Prior to this, I completed my undergraduate studies in Computer Science at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) from 2017 to 2021, where I conducted my bachelor thesis research with [Prof. Ying Wen](https://yingwen.io).
+I am a fifth-year PhD student in Computer Science at the [University of Maryland, College Park (UMD)](https://www.cs.umd.edu) since 2021, working under the guidance of [Prof. Kaiqing Zhang](https://kzhang66.github.io/index.html). I have also had the privilege of working with [Prof. Furong Huang](https://furong-huang.com). Prior to this, I completed my undergraduate studies in Computer Science at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) from 2017 to 2021, where I conducted my bachelor thesis research with [Prof. Ying Wen](https://yingwen.io).
 
 My research focuses on the foundational aspects of *<u>(multi-agent) reinforcement learning (RL)</u>*, particularly on *<u>game-theoretical/strategic</u>* ([NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/07bba581a2dd8d098a3be0f683560643-Abstract.html), [ICML 2023](https://proceedings.mlr.press/v202/liu23ay/liu23ay.pdf)) and *<u>partially observable</u>* settings ([NeurIPS 2024](https://openreview.net/pdf?id=1rnKF0JtXK)), as well as their applications on *<u>adversarially robust RL</u>* ([ICLR 2024](https://openreview.net/pdf?id=DFTHW0MyiW)). 
 
@@ -45,6 +45,6 @@ More recently, I have expanded my research to explore *<u>(multi-)large language
 
 ## Service
 <ul style="margin-top: 20px; padding-left: 30px; list-style-type: disc;">
-  <li style="margin-bottom: 10px;">Reviewer for NeurIPS 2024-2025, ICLR 2025, ICML 2025, AISTATS 2025, UAI 2024-2025, AAMAS 2025, CDC 2025</li>
+  <li style="margin-bottom: 10px;">Reviewer for NeurIPS 2024-2025, ICLR 2025-2026, ICML 2025, AISTATS 2025-2026, UAI 2024-2025, AAMAS 2025-2026, CDC 2025, L4DC 2026</li>
   <li style="margin-bottom: 10px;">Graduate lecturer at <a href="https://inclusion.cs.umd.edu/outreach/aisummer" target="_blank">summer AI camps for K12 students</a> (2023, 2024), teaching multi-agent RL.</li>
 </ul>
