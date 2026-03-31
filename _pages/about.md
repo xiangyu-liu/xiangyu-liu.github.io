@@ -31,7 +31,8 @@ In the past, I completed research internships at Google Research, Market Algorit
 <!-- awards-section -->
 
 ## Talks
-
+<ul style="margin-top: 20px; padding-left: 30px; list-style-type: disc;"> 
+<li style="margin-bottom: 10px;">Invited Talk at the <a href="https://rl-meetup.github.io" target="_blank">UVA RL meetup</a> on <a href="https://arxiv.org/abs/2412.00985" target="_blank">partially observable RL with privileged information</a>, Houston, Texas, 2024</li> 
 <ul style="margin-top: 20px; padding-left: 30px; list-style-type: disc;"> 
 <li style="margin-bottom: 10px;">Talk at the 2024 INFORMS Optimization Society Conference (IOS 2024) on <a href="https://proceedings.mlr.press/v202/liu23ay/liu23ay.pdf" target="_blank">partially observable multi-agent RL</a>, Houston, Texas, 2024</li> 
 <li style="margin-bottom: 10px;">Contributed talk at the <a href="https://inclusion.cs.umd.edu/outreach/aisummer" target="_blank">TSRML workshop of NeurIPS 2022</a> on <a href="https://openreview.net/pdf?id=pDCublKPmG" target="_blank">adversarial policies in competitive games</a>, 2022</li> 
