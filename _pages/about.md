@@ -17,16 +17,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
+I am currently a research scientist at [Google Research, NYC](https://research.google.com/teams/researchny/).
 
-I am a fifth-year PhD student in Computer Science at the [University of Maryland, College Park (UMD)](https://www.cs.umd.edu) working under the guidance of [Prof. Kaiqing Zhang](https://kzhang66.github.io/index.html) since 2021, and an incoming research scientist at Google Research, NYC. I have also had the privilege of working with [Prof. Furong Huang](https://furong-huang.com). Prior to this, I completed my undergraduate studies in Computer Science at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) from 2017 to 2021, where I conducted my bachelor thesis research with [Prof. Ying Wen](https://yingwen.io).
+I received my PhD in Computer Science from the [University of Maryland, College Park (UMD)](https://www.cs.umd.edu) in 2026, where I was advised by [Prof. Kaiqing Zhang](https://kzhang66.github.io/index.html). I also had the privilege of working with [Prof. Furong Huang](https://furong-huang.com). Prior to that, I completed my undergraduate studies in Computer Science at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) from 2017 to 2021, where I conducted my bachelor’s thesis research with [Prof. Ying Wen](https://yingwen.io).
 
-My research focuses on the foundational aspects of *<u>(multi-agent) reinforcement learning (RL)</u>*, particularly on *<u>game-theoretical/strategic</u>* ([NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/07bba581a2dd8d098a3be0f683560643-Abstract.html), [ICML 2023](https://proceedings.mlr.press/v202/liu23ay/liu23ay.pdf)) and *<u>partially observable</u>* settings ([NeurIPS 2024](https://openreview.net/pdf?id=1rnKF0JtXK)), as well as their applications on *<u>adversarially robust RL</u>* ([ICLR 2024](https://openreview.net/pdf?id=DFTHW0MyiW)). 
+My research focuses on the foundational aspects of *<u>(multi-agent) reinforcement learning (RL)</u>*, particularly in *<u>game-theoretic/strategic</u>* ([NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/07bba581a2dd8d098a3be0f683560643-Abstract.html), [ICML 2023](https://proceedings.mlr.press/v202/liu23ay/liu23ay.pdf)) and *<u>partially observable</u>* settings ([NeurIPS 2024](https://openreview.net/pdf?id=1rnKF0JtXK)), as well as their applications to *<u>adversarially robust RL</u>* ([ICLR 2024](https://openreview.net/pdf?id=DFTHW0MyiW)). More recently, I have expanded my research to explore *<u>interactions among (multi-)large language model (LLM) agents</u>* ([ICLR 2025](https://arxiv.org/abs/2403.16843), [ICML 2026](https://arxiv.org/pdf/2602.19309)), leveraging techniques from *<u>game theory</u>* and *<u>online learning</u>*.
 
-More recently, I have expanded my research to explore *<u>(multi-)large language model (LLM) agents interactions</u>* ([ICLR 2025](https://arxiv.org/abs/2403.16843), [ICML 2026](https://arxiv.org/pdf/2602.19309)), leveraging techniques from *<u>game theory</u>* and *<u>online learning</u>*.
-
-In the past, I completed research internships at Google Research, Market Algorithms Team, where I worked with [Zhe Feng](https://zfengharvard.github.io), [Aranyak Mehta](https://scholar.google.com/citations?user=S39CcbQAAAAJ&hl=en), and [Di Wang](https://dw236.github.io) from Jun. 2025 to Dec. 2025, as well as Bloomberg AI Research in the summer of 2022.
-
-<!-- > I will be joining Google Research, Market Algorithm team at Mountain View as a research intern in Summer 2025! -->
+In the past, I completed a research internship at Google Research's Market Algorithms Team, where I worked with [Di Wang](https://dw236.github.io), [Zhe Feng](https://zfengharvard.github.io), and [Aranyak Mehta](https://scholar.google.com/citations?user=S39CcbQAAAAJ&hl=en) from Jun. 2025 to Dec. 2025, as well as a research internship at Bloomberg AI Research in the summer of 2022.
 
 <!-- awards-section -->
 
