@@ -9,8 +9,8 @@ profile:
   image: xiangyu.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2104 Brendan Iribe Center</p>
-    <p>College Park, Maryland 20740</p>
+    <p>111 8th Ave</p>
+    <p>New York, NY 10011</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
